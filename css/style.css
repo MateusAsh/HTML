@@ -1,0 +1,16 @@
+body{
+    font-family: sans-serif;
+}
+#div-paragrafos{
+    color: rgb(246, 248, 138);
+    background-color: rgb(37, 0, 71);
+}
+.longo{
+    background-color: yellowgreen;
+}
+
+#p1{
+    font-family: 'Courier New', Courier, monospace;
+    color : pink;
+font-size: 30px;
+}
