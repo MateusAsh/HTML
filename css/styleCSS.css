@@ -1,7 +1,14 @@
+body{
+
+}
 #titulo-principal {
     background-color: black;
     color: red;
 
+}
+p {
+    color: blueviolet;
+    font-size: 30px;
 }
 .numerados{
     font-family: 'Courier New', Courier, monospace;
@@ -12,4 +19,20 @@
 #p1{
     background-color: cadetblue;
     color: tomato;
+}
+ h2{
+    border-bottom: 1px; color: rgb(0, 0, 0);
+ }
+
+ *{font-family: Arial;
+}
+.decoration{
+    text-decoration: none;
+}
+.caixa{
+    width: 150px;
+    height: 100px;
+    border: 10px solid rgb(169, 65, 255);
+    padding: 50px;
+    margin: 10px;
 }

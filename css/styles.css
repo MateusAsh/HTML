@@ -12,6 +12,10 @@ nav {
     padding: 20px;
     align-items: center;
     border-bottom: 1px solid #666;
+
+}
+ul li{
+    margin-right: 12px;
 }
 nav ul {
     display: flex;
